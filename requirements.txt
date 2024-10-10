@@ -1,0 +1,8 @@
+sklearn
+keras_tuner
+tensorflow
+numpy
+pandas
+tqdm
+ndlib
+networkx
